@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site was created to help people learn about web development. While this blog has many posts detailing web development and its components, it's not designed to be a step-by-step tutorial. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I designed the blog as a teaching tool first and foremost, but it is designed to be simple, clean, and responsive. I used [HTML5 Boilerplate](https://html5boilerplate.com/ "html5 boilerplate") as my starting points and narrowed them down to what I considered to be the essentials. The menu is manually generated but is responsive and built on pure CSS. The HTML focuses on semantics and is built with accessibility in mind. The CSS is not based on any framework, and only contains what the blog needs, there are no layout grids or extra UI classes. SASS is used only for code syntax highlighting, and can be stripped out easily as it is imported into the main.css file.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### About the Author
 
-
-[jekyll-organization]: https://github.com/jekyll
+My name is Abrar Zahin. I'm a Student at Queens college and I've been doing web development for 1 year. I love what I do and hope you find this blog and course useful. If you see me out at a conference or event please say hello. My favorite form of communication linkedin, where you'll find me ranting 140 characters at a time at [@abrarzahin](https://www.linkedin.com/in/abrar-zahin-995648152/ "my Linkedin profile"). 
