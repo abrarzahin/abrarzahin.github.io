@@ -10,6 +10,6 @@ I designed the blog as a teaching tool first and foremost, but it is designed to
 
 ### About the Author
 
-My name is Abrar Zahin. I'm a Student at Queens college and I've been doing web development for 1 year. I love what I do and hope you find this blog and course useful. If you see me out at a conference or event please say hello. My favorite form of communication is linkedin,[@abrarzahin](https://www.linkedin.com/in/abrar-zahin-995648152/ "my Linkedin profile").
+My name is Abrar Zahin. I'm a Student at Queens college and I've been doing web development for 1 year. I love what I do and hope you find this blog and course useful. If you see me out at a conference or event please say hello. My favorite form of communication is linkedin, feel free to connect [@abrarzahin](https://www.linkedin.com/in/abrar-zahin-995648152/ "my Linkedin profile").
 I have some cool [projects](/projects) you might want to check out. 
 And also can checkout the codes in my github profile [@github.com/abrarzahin](https://github.com/abrarzahin "my github profile") .

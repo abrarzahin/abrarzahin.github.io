@@ -3,6 +3,11 @@ layout: page
 title: projects
 ---
 # My projects
+
+* Remember-Book
+---Built and developed a mobile app using java and xml in Android Studio. Customized the app's styles and themes implementing Google's new Material Design visual language. created the app's data management layer using an SQL live database and two valuable Android patterns, a content provider that gives user a standard interface for creating, reading, updating and deleting notes, and a loader, to manage database calls asynchronously. it allows the user to save the data persistently so that it sticks around between app and device launches. 
+
+
 * RoomRadi(On process...)
 
 * RoomReservations 
